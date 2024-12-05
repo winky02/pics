@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="第 1 页" id="4Z0Ka_Te9Ri8-RzgAn7T">
-    <mxGraphModel dx="983" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,8 +32,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ilZPSHY-V1277pjvOUdr-7" value="报表是否已经存在" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="247.25" y="97.5" width="111.5" height="36" as="geometry" />
+        <mxCell id="ilZPSHY-V1277pjvOUdr-7" value="报表信息是否已经存在BI Portal" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="218" y="97.5" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ilZPSHY-V1277pjvOUdr-11" target="ilZPSHY-V1277pjvOUdr-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
