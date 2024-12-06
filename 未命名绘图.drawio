@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="4Z0Ka_Te9Ri8-RzgAn7T">
-    <mxGraphModel dx="815" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="4" width="51" height="18" as="geometry" />
+          <mxGeometry x="362.5" y="87" width="51" height="18" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilZPSHY-V1277pjvOUdr-2" target="pARgLp83FpRPWA3JOX_G-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-2" value="用户获得report owner允许访问授权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="220" y="62" width="166" height="17" as="geometry" />
+          <mxGeometry x="305" y="145" width="166" height="17" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ilZPSHY-V1277pjvOUdr-7" target="ilZPSHY-V1277pjvOUdr-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -39,17 +39,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-7" value="BI Portal中是否已经存在该报表" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="218" y="133" width="170" height="27.5" as="geometry" />
+          <mxGeometry x="303" y="216" width="170" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ilZPSHY-V1277pjvOUdr-11" target="ilZPSHY-V1277pjvOUdr-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-11" value="在BI Portal 创建报表" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="423" y="170" width="95" height="17.75" as="geometry" />
+          <mxGeometry x="508" y="253" width="95" height="17.75" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ilZPSHY-V1277pjvOUdr-17" target="ilZPSHY-V1277pjvOUdr-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="303" y="239" as="targetPoint" />
+            <mxPoint x="388" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="ilZPSHY-V1277pjvOUdr-20" vertex="1" connectable="0">
@@ -66,25 +66,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-17" value="新报表是否已经有合适的用户组" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="229.25" y="250" width="146" height="27" as="geometry" />
+          <mxGeometry x="314.25" y="333" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ilZPSHY-V1277pjvOUdr-19" target="seMw0L7vWgZuyYbHkAr_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-19" value="将用户加入用户组" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="256.5" y="312" width="93" height="22" as="geometry" />
+          <mxGeometry x="341.5" y="395" width="93" height="22" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="172.77857142857135" y="260.5" as="sourcePoint" />
-            <mxPoint x="104" y="338" as="targetPoint" />
+            <mxPoint x="257.77857142857135" y="343.5" as="sourcePoint" />
+            <mxPoint x="189" y="421" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="103.75" y="259" />
+              <mxPoint x="188.75" y="342" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-24" value="建议不要创建新的用户组" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120.5" y="250" width="67" height="27.5" as="geometry" />
+          <mxGeometry x="205.5" y="333" width="67" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ilZPSHY-V1277pjvOUdr-28" target="ilZPSHY-V1277pjvOUdr-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,21 +103,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ilZPSHY-V1277pjvOUdr-28" value="用户是否基于用户组访问报表" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="208.5" y="195" width="189" height="27" as="geometry" />
+          <mxGeometry x="293.5" y="278" width="189" height="27" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-3" target="seMw0L7vWgZuyYbHkAr_-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="241.0000000000001" y="411.4999999999999" as="targetPoint" />
+            <mxPoint x="326.0000000000001" y="494.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-3" value="将用户直接加入报表访问权限中" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="32" y="338" width="143" height="23" as="geometry" />
+          <mxGeometry x="117" y="421" width="143" height="23" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="seMw0L7vWgZuyYbHkAr_-8" target="seMw0L7vWgZuyYbHkAr_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-8" value="将用户组加入报表访问权限中" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235.12" y="356" width="135.75" height="21" as="geometry" />
+          <mxGeometry x="320.12" y="439" width="135.75" height="21" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="seMw0L7vWgZuyYbHkAr_-16" target="seMw0L7vWgZuyYbHkAr_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -127,23 +127,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="seMw0L7vWgZuyYbHkAr_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-16" target="seMw0L7vWgZuyYbHkAr_-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pARgLp83FpRPWA3JOX_G-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="seMw0L7vWgZuyYbHkAr_-16" target="seMw0L7vWgZuyYbHkAr_-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="499" />
+              <mxPoint x="636" y="961" />
+              <mxPoint x="510" y="961" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="seMw0L7vWgZuyYbHkAr_-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="seMw0L7vWgZuyYbHkAr_-25" vertex="1" connectable="0">
-          <mxGeometry x="0.5882" y="-2" relative="1" as="geometry">
+        <mxCell id="pARgLp83FpRPWA3JOX_G-36" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="pARgLp83FpRPWA3JOX_G-35">
+          <mxGeometry x="-0.8474" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-16" value="用户是否能打开报表" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200.49" y="400" width="205.01" height="32" as="geometry" />
+          <mxGeometry x="285.49" y="483" width="205.01" height="32" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="488" y="805" width="67" height="29" as="geometry" />
+          <mxGeometry x="354.5" y="946" width="67" height="29" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-22" target="seMw0L7vWgZuyYbHkAr_-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="302.5" y="538" as="targetPoint" />
+            <mxPoint x="387.5" y="621" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -161,24 +167,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-22" value="打开报表是否因为数据权限没有获取" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="177.5" y="464" width="251" height="33" as="geometry" />
+          <mxGeometry x="262.5" y="547" width="251" height="33" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-29" target="seMw0L7vWgZuyYbHkAr_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="802" as="targetPoint" />
+            <mxPoint x="195" y="885" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="76" y="820" />
+              <mxPoint x="160" y="961" />
+              <mxPoint x="354" y="961" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-29" value="具体问题具体解决" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20.5" y="605" width="109.5" height="27" as="geometry" />
+          <mxGeometry x="105.5" y="688" width="109.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-34" target="seMw0L7vWgZuyYbHkAr_-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="488" y="588" as="targetPoint" />
+            <mxPoint x="573" y="671" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="467" y="551" />
+              <mxPoint x="552" y="634" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,13 +198,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-34" value="检查BI portal用户权限是否选择正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="204" y="532" width="198" height="38" as="geometry" />
+          <mxGeometry x="289" y="615" width="198" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="seMw0L7vWgZuyYbHkAr_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-37" target="seMw0L7vWgZuyYbHkAr_-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pARgLp83FpRPWA3JOX_G-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="seMw0L7vWgZuyYbHkAr_-37" target="seMw0L7vWgZuyYbHkAr_-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="552" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-37" value="修改权限配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="428.5" y="605" width="77" height="23" as="geometry" />
+          <mxGeometry x="513.5" y="688" width="77" height="23" as="geometry" />
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-43" target="seMw0L7vWgZuyYbHkAr_-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,31 +227,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-43" value="检查是否将用户正确加入到报表RLS中" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="190" y="605" width="226" height="27" as="geometry" />
+          <mxGeometry x="275" y="688" width="226" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="seMw0L7vWgZuyYbHkAr_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-48" target="seMw0L7vWgZuyYbHkAr_-21" edge="1">
+        <mxCell id="seMw0L7vWgZuyYbHkAr_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="seMw0L7vWgZuyYbHkAr_-48" target="seMw0L7vWgZuyYbHkAr_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="303" y="820" />
+              <mxPoint x="388" y="841" />
+              <mxPoint x="388" y="841" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="seMw0L7vWgZuyYbHkAr_-48" value="按照每张报表管控RLS的方法，将对应用户的数据权限加入" style="whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="229.25" y="688" width="147.5" height="31" as="geometry" />
+          <mxGeometry x="314.25" y="771" width="147.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-3" target="pARgLp83FpRPWA3JOX_G-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-3" value="用户通过单击报表“Request Access”向report owner申请访问" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="34" width="170" height="28" as="geometry" />
+          <mxGeometry x="575" y="117" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480.50000000000034" y="251.48571428571427" as="sourcePoint" />
-            <mxPoint x="302.9" y="400.0007804497342" as="targetPoint" />
+            <mxPoint x="565.5000000000003" y="334.48571428571427" as="sourcePoint" />
+            <mxPoint x="387.9" y="483.0007804497342" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="385" />
-              <mxPoint x="303" y="385" />
+              <mxPoint x="565" y="468" />
+              <mxPoint x="388" y="468" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,7 +262,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-4" target="seMw0L7vWgZuyYbHkAr_-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="pARgLp83FpRPWA3JOX_G-18">
           <mxGeometry x="-0.8762" relative="1" as="geometry">
@@ -258,25 +274,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-4" value="report owner 是否同意访问" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480.5" y="238" width="189" height="27" as="geometry" />
+          <mxGeometry x="565.5" y="321" width="189" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-8" target="ilZPSHY-V1277pjvOUdr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-8" value="用户向admin申请访问报表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="238.5" y="95" width="129" height="15.5" as="geometry" />
+          <mxGeometry x="323.5" y="178" width="129" height="15.5" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-20" target="pARgLp83FpRPWA3JOX_G-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-20" value="用户还未获得report owner访问授权，但是想要获得授权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="34.5" y="36" width="143" height="24" as="geometry" />
+          <mxGeometry x="119.5" y="119" width="143" height="24" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-22" target="pARgLp83FpRPWA3JOX_G-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-22" value="admin协助用户向report owner沟通" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="24.5" y="79" width="163" height="19" as="geometry" />
+          <mxGeometry x="109.5" y="162" width="163" height="19" as="geometry" />
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-25" target="ilZPSHY-V1277pjvOUdr-2">
           <mxGeometry relative="1" as="geometry" />
@@ -288,11 +304,10 @@
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pARgLp83FpRPWA3JOX_G-25" target="seMw0L7vWgZuyYbHkAr_-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10.14285714285711" y="823.4285714285713" as="targetPoint" />
+            <mxPoint x="95.14285714285711" y="906.4285714285713" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="15" y="135" />
-              <mxPoint x="15" y="820" />
-              <mxPoint x="334" y="820" />
+              <mxPoint x="100" y="218" />
+              <mxPoint x="100" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -302,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pARgLp83FpRPWA3JOX_G-25" value="report owner 是否同意访问" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="32" y="123" width="148" height="23" as="geometry" />
+          <mxGeometry x="117" y="206" width="148" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
