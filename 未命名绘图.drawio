@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="4Z0Ka_Te9Ri8-RzgAn7T">
-    <mxGraphModel dx="629" dy="375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pARgLp83FpRPWA3JOX_G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ilZPSHY-V1277pjvOUdr-1" target="pARgLp83FpRPWA3JOX_G-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByDmmqcMoBoIHStEWOWe-18" value="场景1.a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pARgLp83FpRPWA3JOX_G-7">
+        <mxCell id="ByDmmqcMoBoIHStEWOWe-18" value="((场景1.a)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#CC0000;fontSize=9;" vertex="1" connectable="0" parent="pARgLp83FpRPWA3JOX_G-7">
           <mxGeometry x="-0.2465" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -308,6 +308,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ByDmmqcMoBoIHStEWOWe-19" value="（场景1.b）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#CC0000;" vertex="1" connectable="0" parent="ByDmmqcMoBoIHStEWOWe-9">
+          <mxGeometry x="-0.2682" y="6" relative="1" as="geometry">
+            <mxPoint x="43" y="-136" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ByDmmqcMoBoIHStEWOWe-4" value="用户是否已经获得&lt;br&gt;report owner 授予的访问报表权限" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285.49" y="109" width="206" height="47" as="geometry" />
         </mxCell>
@@ -332,6 +337,9 @@
           <mxGeometry x="-0.5741" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ByDmmqcMoBoIHStEWOWe-22" value="（场景2.b）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#CC0000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="186.00000000000003" y="144.99771844660194" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
