@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8" pages="2">
   <diagram name="第 1 页" id="4Z0Ka_Te9Ri8-RzgAn7T">
     <mxGraphModel dx="983" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,6 +345,71 @@
         </mxCell>
         <mxCell id="q5b_sTzqtBhD1HoKCyfu-11" value="重新检查用户的报表权限配置" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500.25" y="549" width="135.75" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gl5JuzBEv12Rpy8WX52N" name="第 2 页">
+    <mxGraphModel dx="1466" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bZZcL6UOBROMrivy8goT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-1" target="bZZcL6UOBROMrivy8goT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="6" width="71" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-2" target="bZZcL6UOBROMrivy8goT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-2" value="用户需求&amp;amp;元数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="50" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-4" target="bZZcL6UOBROMrivy8goT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-4" value="UI/UX报表设计" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="96" width="113" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-7" target="bZZcL6UOBROMrivy8goT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-7" value="Power BI 报表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="136" width="121" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-9" target="bZZcL6UOBROMrivy8goT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-9" value="报表发布到PBI Service&lt;br&gt;获得id发布到BI Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103.25" y="194" width="144.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-11" target="bZZcL6UOBROMrivy8goT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-11" value="BI Portal管理用户组、用户访问报表权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60.5" y="251" width="229" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-13" target="bZZcL6UOBROMrivy8goT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-13" value="管理用户访问数据权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="299" width="134" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-15" target="bZZcL6UOBROMrivy8goT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-15" value="报表上线测试、完善反馈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.5" y="356" width="137" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZZcL6UOBROMrivy8goT-17" target="bZZcL6UOBROMrivy8goT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-17" value="报表正式上线交付" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="403" width="119" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="bZZcL6UOBROMrivy8goT-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.25" y="450" width="74.5" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
